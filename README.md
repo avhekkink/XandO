@@ -1,6 +1,8 @@
 # XandO
 Simple noughts and crosses game.
 
+Begin the game with the command XandO.
+
 To play, enter a.Move(i) where i is the spot on the board where you would like to place an X. The board is set out as follows:
 
 123
