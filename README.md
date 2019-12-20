@@ -14,3 +14,5 @@ You may also use the commands: a.Undo and a.Redo
 The computer will randomly choose an available spot to place its O.
 
 You win the game when you have 3 X's in a row.
+
+-Coded in MATLAB
